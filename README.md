@@ -35,7 +35,7 @@ The tool works completely offline and does not require external services.
 
 Example CLI output:
 
-![LogAnlyzer Demo](assets/1.jpg)
+![LogAnlyzer Demo](assets/IMG_20251216_165744.jpg)
 
 ---
 
