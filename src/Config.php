@@ -11,7 +11,7 @@ class Config
      * Number of requests from a single IP
      * to be considered suspicious
      */
-    public const BRUTE_FORCE_THRESHOLD = 500;
+    public const BRUTE_FORCE_THRESHOLD = 3;
 
     /**
      * Sensitive paths often targeted by attackers
@@ -30,7 +30,7 @@ class Config
      * Maximum number of sensitive path hits
      * before marking an IP as suspicious
      */
-    public const SENSITIVE_HIT_THRESHOLD = 20;
+    public const SENSITIVE_HIT_THRESHOLD = 2;
 
     /**
      * Enable or disable colored CLI output
